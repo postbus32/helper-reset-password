@@ -1,5 +1,5 @@
 package helper_reset_password
 
 const (
-	DataStorePath = "/data"
+	DataStorePath = "./portainer/portainer-data/"
 )
